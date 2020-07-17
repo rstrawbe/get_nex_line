@@ -12,7 +12,7 @@
 
 Функция работает эфективнее всего с размером BUFFER_SIZE=2 байта
 
-Пример использования функции описан в test/test.c
+Пример использования функции описан в [test/test.c](https://github.com/rstrawbe/get_next_line/blob/master/tests/test.c) 
 
 ```$ cd tests```
 
