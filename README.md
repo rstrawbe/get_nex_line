@@ -12,12 +12,4 @@
 
 Функция работает эфективнее всего с размером BUFFER_SIZE=2 байта
 
-Пример использования функции описан в [test/test.c](https://github.com/rstrawbe/get_next_line/blob/master/tests/test.c) 
-
-```$ cd tests```
-
-```$ gcc test.c ../srcs/get_next_line*.c -I ../srcs/get_next_line.h -D BUFFER_SIZE=2```
-
-```$ time ./a.out```
-
 Программа разбивает на предложения большой текстовый файл
